@@ -1,2 +1,2 @@
 # Hello_There
-Thid is my first time
+This is my first time
